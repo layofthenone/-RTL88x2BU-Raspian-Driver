@@ -4,7 +4,7 @@ rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 ## Setup Raspbian 
 #### with this tutorial [link](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
 
-# Update source list
+## Update source list
 ```
 sudo nano /etc/apt/sources.list
 ```
@@ -49,7 +49,7 @@ unrar x rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777.rar
 cd rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777/
 ```
 
-### Install rtl88x2BU Driver
+## Install rtl88x2BU Driver
 ```
 sudo make
 ```
