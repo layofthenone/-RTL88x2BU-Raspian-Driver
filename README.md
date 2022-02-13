@@ -16,44 +16,44 @@ deb http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 deb http://archive.raspberrypi.org/debian/ buster main
 #deb-src http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 ```
-update raspbian
-`
+
+# update raspbian
+```
 sudo rpi-update
 sudo apt update
 sudo apt upgrade
-`
+```
 
-reboot os
-`
+# reboot os
+```
 sudo reboot
-`
-setup unrar
-`
+```
+# setup unrar
+```
 sudo apt-get install unrar-free unrar
-`
+```
 
-download driver
-`
+# download driver
+```
 git clone https://github.com/layofthenone/asus-ac58-raspbian-driver.git
-`
-`
+```
+```
 cd asus-ac58-raspbian-driver/
-`
+```
 
-unrar rar file
-`
+# unrar rar file
+```
 unrar x rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777.rar
 cd rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777/
-`
-
-`
+```
+```
 sudo make
-`
-`
+```
+```
 sudo install
-`
-`
+```
+```
 sudo reboot
-`
+```
 
-and done
+###and DONE
