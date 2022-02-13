@@ -9,6 +9,7 @@ rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 ## Setup Raspbian 
 #### with this tutorial [link](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
 
+# Setup RTL88xBU Raspbian Driver
 ## Update source list
 ```
 sudo nano /etc/apt/sources.list
