@@ -50,7 +50,7 @@ cd rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777/
 sudo make
 ```
 ```
-sudo install
+sudo make install
 ```
 ```
 sudo reboot
