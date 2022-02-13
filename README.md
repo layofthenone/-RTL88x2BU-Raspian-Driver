@@ -1,7 +1,7 @@
 # [Asus USB AC58, USB AC1300](https://www.asus.com/Networking-IoT-Servers/Adapters/All-series/USB-AC58/) Raspbian Driver
 rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 
-## seetup raspbian
+## Setup Raspbian
 
 # Update source list
 ```
