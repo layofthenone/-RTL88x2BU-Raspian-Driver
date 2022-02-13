@@ -64,8 +64,8 @@ sudo reboot
 
 
 
-
-## If you want to setup your wifi hotspot(wifi-to-wifi) or wifi to eth bridge
+# Share Your Network
+### If you want to setup your wifi hotspot(wifi-to-wifi) or wifi to eth bridge
 `
 https://github.com/arpitjindal97/raspbian-recipes
 `
