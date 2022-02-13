@@ -1,8 +1,10 @@
-# [ASUS AC1300 USB-AC55 B1]**asd**
-ASUS U2
-ASUS USB-AC53 Nano
-ASUS USB-AC58 Raspbian Driver
+## Supported Devices
 rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
+###### [ASUS USB-AC58 1300](https://www.asus.com/Networking-IoT-Servers/Adapters/All-series/USB-AC58/)
+###### [ASUS USB-AC55_B1 1300](https://www.asus.com/Networking-IoT-Servers/Adapters/All-series/USB-AC55-B1/)
+###### [ASUS USB-AC53 Nano 1200](https://www.asus.com/us/Networking-IoT-Servers/Adapters/All-series/USB-AC53-Nano/)
+
+`I dont tryed more wifi module, you can try that`
 
 ## Setup Raspbian 
 #### with this tutorial [link](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
