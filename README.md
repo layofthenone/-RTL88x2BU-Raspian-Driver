@@ -49,7 +49,7 @@ git clone https://github.com/layofthenone/RTL88x2BU-Raspbian-Driver.git
 cd RTL88x2BU-Raspbian-Driver
 ```
 
-## Unrar Rar File
+## Extract From Rar File
 ```
 unrar x rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777.rar
 cd rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777/
