@@ -1,7 +1,10 @@
 # asus-ac58-raspbian-driver
 rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 
+#Update source list
+```
 sudo nano /etc/apt/sources.list
+```
 ```
 # Uncomment line below then 'apt-get update' to enable 'apt-get source'
 deb http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
