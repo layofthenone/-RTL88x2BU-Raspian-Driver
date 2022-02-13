@@ -26,22 +26,22 @@ deb http://archive.raspberrypi.org/debian/ buster main
 #deb-src http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 ```
 
-### Update Raspbian
+## Update Raspbian
 ```
 sudo apt update
 sudo apt upgrade
 ```
 
-### Reboot OS
+## Reboot OS
 ```
 sudo reboot
 ```
-### Setup Unrar
+## Setup Unrar
 ```
 sudo apt-get install unrar-free unrar
 ```
 
-### Download Driver
+## Download Driver
 ```
 git clone https://github.com/layofthenone/RTL88x2BU-Raspbian-Driver.git
 ```
@@ -49,13 +49,13 @@ git clone https://github.com/layofthenone/RTL88x2BU-Raspbian-Driver.git
 cd asus-ac58-raspbian-driver/
 ```
 
-### Unrar Rar File
+## Unrar Rar File
 ```
 unrar x rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777.rar
 cd rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777/
 ```
 
-## Install rtl88x2BU Driver
+## Install Driver
 ```
 sudo make
 ```
@@ -72,6 +72,4 @@ sudo reboot
 
 # Share Your Network
 ### If you want to setup your wifi hotspot(wifi-to-wifi) or wifi to eth bridge
-`
-https://github.com/arpitjindal97/raspbian-recipes
-`
+with this [link](https://github.com/arpitjindal97/raspbian-recipes)
