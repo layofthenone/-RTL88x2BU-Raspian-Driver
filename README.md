@@ -4,7 +4,7 @@ rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 ###### [ASUS USB-AC55_B1 1300](https://www.asus.com/Networking-IoT-Servers/Adapters/All-series/USB-AC55-B1/)
 ###### [ASUS USB-AC53 Nano 1200](https://www.asus.com/us/Networking-IoT-Servers/Adapters/All-series/USB-AC53-Nano/)
 
-`I dont tryed more wifi module, you can try that`
+`I haven't tried with more devices, you can try devices on the same chipset`
 
 ## Setup Raspbian 
 #### with this tutorial [link](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
@@ -42,7 +42,7 @@ sudo apt-get install unrar-free unrar
 
 ### Download Driver
 ```
-git clone https://github.com/layofthenone/RTL88x2BU-Raspian-Driver.git
+git clone https://github.com/layofthenone/RTL88x2BU-Raspbian-Driver.git
 ```
 ```
 cd asus-ac58-raspbian-driver/
