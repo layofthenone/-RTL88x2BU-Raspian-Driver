@@ -6,7 +6,7 @@ rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 
 `I haven't tried with more devices, you can try devices on the same chipset`
 
-## Setup Raspbian 
+# Setup Raspbian 
 #### with this tutorial [link](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
 
 # Setup RTL88xBU Raspbian Driver
