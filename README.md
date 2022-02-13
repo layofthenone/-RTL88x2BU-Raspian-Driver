@@ -46,7 +46,7 @@ sudo apt-get install unrar-free unrar
 git clone https://github.com/layofthenone/RTL88x2BU-Raspbian-Driver.git
 ```
 ```
-cd asus-ac58-raspbian-driver/
+cd RTL88x2BU-Raspbian-Driver
 ```
 
 ## Unrar Rar File
