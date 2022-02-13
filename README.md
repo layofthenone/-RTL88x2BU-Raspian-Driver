@@ -3,15 +3,14 @@ rtl88x2BU_WiFi_linux_v5.8.7.4 Raspberry Pi OS Driver Setup
 
 sudo nano /etc/apt/sources.list
 
-deb http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 # Uncomment line below then 'apt-get update' to enable 'apt-get source'
+deb http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 #deb-src http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 #deb http://archive.raspbian.org/raspbian wheezy main contrib non-free
 #deb-src http://archive.raspbian.org/raspbian wheezy main contrib non-free
 #deb http://mirrordirector.raspbian.org/raspbian/ jessie main contrib non-free rpi
 #deb http://mirrordirector.raspbian.org/raspbian wheezy main contrib non-free firmware rpi
 deb http://archive.raspberrypi.org/debian/ buster main
-# Uncomment line below then 'apt-get update' to enable 'apt-get source'
 #deb-src http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
 
 update raspbian
