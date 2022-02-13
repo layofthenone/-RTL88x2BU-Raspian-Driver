@@ -65,7 +65,7 @@ sudo make install
 ```
 sudo reboot
 ```
-### and DONE
+### and Done
 
 
 
