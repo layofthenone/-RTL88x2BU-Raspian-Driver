@@ -38,7 +38,7 @@ sudo reboot
 ```
 ## Setup Unrar
 ```
-sudo apt install unrar-free unrar
+sudo apt install unrar-free
 ```
 
 ## Download Driver
