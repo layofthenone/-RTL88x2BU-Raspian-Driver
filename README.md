@@ -36,9 +36,9 @@ sudo apt upgrade
 ```
 sudo reboot
 ```
-## Setup Unrar
+## Setup Unzip
 ```
-sudo apt install unrar-free
+ sudo apt install unzip
 ```
 
 ## Download Driver
@@ -51,7 +51,7 @@ cd RTL88x2BU-Raspbian-Driver
 
 ## Extract From Rar File
 ```
-unrar x rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777.rar
+unzip rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777.zip
 cd rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777/
 ```
 
